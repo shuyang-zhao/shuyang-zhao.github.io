@@ -7,7 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I'm a senior undergraduate student at [Pharmaceutical Science Program](https://med.cuhk.edu.cn/node/983), [School of Medicine](https://med.cuhk.edu.cn), [The Chinese University of Hong Kong, Shenzhen](https://cuhk.edu.cn). My research interests include chemical biology, bioanalytical chemistry, and epigenetics. 
+
+Currently, I am working on bioimaging and immunotherapy fortunately under the guidance of [Prof. Zhaoting Li](https://med.cuhk.edu.cn/en/teacher/976). The [Li lab](https://zhaotingli.com) is a group focusing on drug delivery and immunotherapy, but I am lucky to conduct bioanalytical research for my Final Year Project. 
+
+In Fall 2025, I will join [Prof. Yinsheng Wang's lab](https://wanglab.ucr.edu) at [University of California, Riverside](https://www.ucr.edu) as Chemistry Ph.D. student. I will continue to work on chemical biology, epigenetics, and bioanalytical chemistry.  
 
 A data-driven personal website
 ======
