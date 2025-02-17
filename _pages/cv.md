@@ -11,35 +11,30 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Chemistry, University of California, Riverside, 2030 (planned and expected)
+* B.Pharm. in Pharmaceutical Science, The Chinese University of Hong Kong, Shenzhen, 2025
 
-Work experience
+Research Experiences
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Winter 2023: Undergraduate Research Assistant
+  * The Chinese University of Hong Kong, Shenzhen
+  * Engineered Bacteria for Drug Delivery and Multiple Cancer Treatment
+  * Design and Synthesis of an AIE Probe for Biomolecular Condensates Imaging
+  * Supervisor: Prof. Zhaoting Li
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2023: Research Internship
+  * Shenzhen Bay Laboratory
+  * Synthesis and Characterization of Peptide-based Biomimetic Receptor
+  * Supervisor: Dr. Mao Li
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2020: Undergraduate Research Assistant
+  * The Chinese University of Hong Kong, Shenzhen
+  * Synthesis and Characterization of Polymer-based Drug Delivery Systems
+  * Supervisor: Prof. Wing-Fu Lai
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Mass Spectrometry (MS), FT-IR, UV-Vis, Fluorescence spectroscopy, Thermal Gravimetric Analysis (TGA), Scanning Electron Microscopy (SEM), Transmission Electron Microscopy (TEM), preparative and analytical HPLC, NMR, Isothermal Titration Calorimetry (ITC), Thin Layer Chromatography (TLC), Column chromatography, Schlenk technique, Recrystallization, Solid Phase Peptide Synthesis (SPPS), Basic organic synthesis, Cell culture, Bacteria culture, Confocal Laser Scanning Microscopy (CLSM), Western Blot, Polymerase Chain Reaction (PCR), Dynamic Light Scattering (DLS), Nanoparticle Tracking Analysis (NTA), Enzyme Linked Immunosorbent Assay (ELISA), SDS-PAGE, Agarose Gel Electrophoresis, Flowcytometry
 
 Publications
 ======
@@ -61,4 +56,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Part-time work at new media center, Diligentia College, The Chinese University of Hong Kong, Shenzhen
