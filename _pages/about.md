@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm a senior undergraduate student at [Pharmaceutical Science Program](https://med.cuhk.edu.cn/node/983), [School of Medicine](https://med.cuhk.edu.cn), [The Chinese University of Hong Kong, Shenzhen](https://cuhk.edu.cn). My research interests include chemical biology, bioanalytical chemistry, and epigenetics. 
+I am an incoming Chemistry Ph.D. student in [Prof. Yinsheng Wang's lab](https://wanglab.ucr.edu) at [University of California, Riverside](https://www.ucr.edu). My doctoral studies will focus on chemical biology, epitranscriptomics, and nucleic acid bioanalytical chemistry.  
 
-Currently, I am working on bioimaging and immunotherapy fortunately under the guidance of [Prof. Zhaoting Li](https://med.cuhk.edu.cn/en/teacher/976). The [Li lab](https://zhaotingli.com) is a group focusing on drug delivery and immunotherapy, but I am lucky to conduct bioanalytical research for my Final Year Project. 
+I earned my BS at [Pharmaceutical Science Program](https://med.cuhk.edu.cn/node/983), [School of Medicine](https://med.cuhk.edu.cn), [The Chinese University of Hong Kong, Shenzhen](https://cuhk.edu.cn). During my undergraduate study, I was trained in drug delivery, immunotherapy, organic chemistry, and analytical chemistry.  
 
-In Fall 2025, I will join [Prof. Yinsheng Wang's lab](https://wanglab.ucr.edu) at [University of California, Riverside](https://www.ucr.edu) as Chemistry Ph.D. student. I will continue to work on chemical biology, epigenetics, and bioanalytical chemistry.  
+Currently, I am working on genome editing fortunately under the guidance of [Prof. Chengqi Yi](yilab.org.cn) at Peking University. I have worked with [Prof. Zhaoting Li](https://zhaotingli.com), [Prof. Wing-Fu Lai](https://environment.leeds.ac.uk/faculty/staff/11935/dr-wing-fu-lai), and [Dr. Mao Li](https://www.x-mol.com/groups/limao) during undergraduate research trainings. Thank you all for your kind and professional guidance. 
