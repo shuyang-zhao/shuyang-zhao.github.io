@@ -13,4 +13,4 @@ I earned my BS at [Pharmaceutical Science Program](https://med.cuhk.edu.cn/node/
 
 During my BS, I have had experiences in multiple different areas at the interface of chemistry and biology. In the summer of 2025, I worked on genome editing fortunately under the guidance of [Prof. Chengqi Yi](https://www.yilab.org.cn) at Peking University. At The Chinese University of Hong Kong, Shenzhen, I have worked with [Prof. Zhaoting Li](https://zhaotingli.com), [Prof. Wing-Fu Lai](https://environment.leeds.ac.uk/faculty/staff/11935/dr-wing-fu-lai), mostly on biomaterials and drug delivery. At Shenzhen Bay Laboratory, I worked with [Dr. Mao Li](https://www.x-mol.com/groups/limao) on chemical biology and peptide chemistry. Thank you all for your kind and professional guidance. 
 
-Feel free to contact me at shuyang.zhao[at]ucr.edu if you are also interested in combining chemistry and biology for advancing therapeutics and our understanding towards life sciences. 
+Feel free to contact me at shuyang.zhao[at]email.ucr.edu if you are also interested in combining chemistry and biology for advancing therapeutics and our understanding towards life sciences. 
