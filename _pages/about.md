@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Year-1 Chemistry Ph.D. student in [Prof. Yinsheng Wang's lab](https://wanglab.ucr.edu) at [University of California, Riverside](https://www.ucr.edu). My doctoral studies focus on chemical biology, epitranscriptomics, and nucleic acid bioanalytical chemistry.  
+Hi, my name is Shuyang Zhao, you can also call me Noah. I am a Year-1 Chemistry Ph.D. student in [Prof. Yinsheng Wang's lab](https://wanglab.ucr.edu) at [University of California, Riverside](https://www.ucr.edu). My doctoral studies focus on chemical biology, epitranscriptomics, and nucleic acid bioanalytical chemistry.  
 
 I earned my BS at [Pharmaceutical Science Program](https://med.cuhk.edu.cn/node/983), [School of Medicine](https://med.cuhk.edu.cn), [The Chinese University of Hong Kong, Shenzhen](https://cuhk.edu.cn). During my undergraduate study, I was trained in drug delivery, immunotherapy, organic chemistry, and analytical chemistry.  
 
