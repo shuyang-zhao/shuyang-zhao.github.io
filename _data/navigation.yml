@@ -3,25 +3,27 @@
 # Changing the order here will adjust the order and you can also add additional
 # links. Removing a link prevents it from showing in the header, but does not
 # prevent it from being included in the site.
+#
+# An item with `collection:` is only shown once that collection has at least
+# one published entry, so a section with nothing in it yet stays out of the menu.
 
 main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Projects"
+    url: /projects/
+    collection: projects
+
   - title: "Talks"
-    url: /talks/    
+    url: /talks/
 
   - title: "Teaching"
-    url: /teaching/    
-    
-#  - title: "Portfolio"
-#    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
+    url: /teaching/
+
+# Hidden until there are real posts; the page itself still lives at /year-archive/
+#  - title: "Blog Posts"
+#    url: /year-archive/
+
   - title: "CV"
     url: /cv/
-    
-#  - title: "Guide"
-#    url: /markdown/

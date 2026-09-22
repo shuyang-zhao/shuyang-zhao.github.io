@@ -1,0 +1,12 @@
+{% assign project = include.project %}
+{% if project.period or project.affiliation %}
+  <p class="project-meta">
+    {% if project.period %}<span><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ project.period }}</span>{% endif %}
+    {% if project.affiliation %}<span><i class="fas fa-fw fa-flask" aria-hidden="true"></i> {{ project.affiliation }}</span>{% endif %}
+  </p>
+{% endif %}
+{% if project.keywords[0] %}
+  <ul class="project-keywords">
+    {% for keyword in project.keywords %}<li>{{ keyword }}</li>{% endfor %}
+  </ul>
+{% endif %}

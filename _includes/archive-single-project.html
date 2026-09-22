@@ -1,0 +1,35 @@
+{% include base_path %}
+
+{% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+
+{% if post.image %}
+  {% if post.image contains "://" %}
+    {% assign image = post.image %}
+  {% else %}
+    {% assign image = post.image | prepend: "/images/" | prepend: base_path %}
+  {% endif %}
+{% endif %}
+
+<div class="list__item">
+  <article class="archive__item project-card{% if image %} project-card--image{% endif %}" itemscope itemtype="http://schema.org/CreativeWork">
+    {% if image %}
+      <a class="project-card__image" href="{{ base_path }}{{ post.url }}" tabindex="-1" aria-hidden="true">
+        <img src="{{ image }}" alt="" loading="lazy">
+      </a>
+    {% endif %}
+
+    <div class="project-card__body">
+      <h2 class="archive__item-title" itemprop="headline">
+        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+      </h2>
+
+      {% include project-meta.html project=post %}
+
+      {% if post.excerpt %}
+        <div class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</div>
+      {% endif %}
+
+      {% include project-links.html project=post %}
+    </div>
+  </article>
+</div>
