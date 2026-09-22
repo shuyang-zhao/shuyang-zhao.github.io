@@ -1,0 +1,8 @@
+{% assign project = include.project %}
+{% if project.links[0] %}
+  <p class="project-links">
+    {% for link in project.links %}
+      <a href="{{ link.url }}" class="btn btn--inverse btn--small">{{ link.name }}</a>
+    {% endfor %}
+  </p>
+{% endif %}

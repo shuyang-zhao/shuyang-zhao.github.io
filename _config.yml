@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Shuyang Zhao"
 title_separator          : "-"
 name                     : &name "Shuyang Zhao"
-description              : &description "personal description"
+description              : &description "Shuyang (Noah) Zhao, Chemistry Ph.D. student at UC Riverside working on chemical biology and epitranscriptomics."
 url                      : https://shuyang-zhao.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shuyang-zhao/shuyang-zhao.github.io"
@@ -50,7 +50,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username, e.g. "yourname.bsky.social"
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -168,6 +168,12 @@ exclude:
   - assets/js/_main.js
   - assets/js/plugins
   - assets/js/vendor
+  - CONTRIBUTING.md
+  - docker-compose.yaml
+  - markdown_generator
+  - README.md
+  - talkmap.ipynb
+  - talkmap.py
   - CHANGELOG
   - Capfile
   - config
@@ -219,7 +225,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  projects:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -265,15 +271,14 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _projects
   - scope:
       path: ""
-      type: portfolio
+      type: projects
     values:
       layout: single
       author_profile: true
       share: true
-      comment: true
   # _talks
   - scope:
       path: ""

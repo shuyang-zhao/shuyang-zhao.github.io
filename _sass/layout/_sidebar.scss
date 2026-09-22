@@ -131,7 +131,15 @@
 .sidebar .author__desktop {
   display: none;
   @media screen and (min-width: 1024px) {
-    display: block;
+    // wrap long location/employer lines instead of clipping them;
+    // flex keeps the wrapped line aligned with the text, not the icon
+    display: flex;
+    align-items: baseline;
+    white-space: normal;
+
+    i {
+      flex: none;
+    }
   }
 }
 

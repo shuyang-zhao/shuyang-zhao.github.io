@@ -8,4 +8,3 @@ date: 2024-09-01
 location: "Shenzhen, China"
 ---
 
-This section is also used to occupy the space. Do NOT take anything above seriously. 
