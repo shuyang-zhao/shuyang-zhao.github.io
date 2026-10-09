@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="Co-dependency network of RNA-modification enzymes: edges found in organoid screens, in 2D screens, or in both">
+<rect width="400" height="300" rx="12" fill="#f3f7f8"/>
+<g stroke-linecap="round" fill="none">
+  <path d="M112 92 L196 150" stroke="#6d4bc4" stroke-width="5" opacity="0.85"/>
+  <path d="M196 150 L288 96" stroke="#6d4bc4" stroke-width="4" opacity="0.85"/>
+  <path d="M196 150 L206 236" stroke="#0b8a6f" stroke-width="4" opacity="0.85"/>
+  <path d="M112 92 L84 184" stroke="#c25b12" stroke-width="3" opacity="0.85"/>
+  <path d="M84 184 L196 150" stroke="#c25b12" stroke-width="2.5" opacity="0.85"/>
+  <path d="M288 96 L330 182" stroke="#0b8a6f" stroke-width="3" opacity="0.85"/>
+  <path d="M330 182 L206 236" stroke="#c25b12" stroke-width="2.5" opacity="0.8" stroke-dasharray="7 6"/>
+  <path d="M288 96 L352 58" stroke="#a9b1bb" stroke-width="2" stroke-dasharray="4 5"/>
+  <path d="M288 96 L366 112" stroke="#a9b1bb" stroke-width="2" stroke-dasharray="4 5"/>
+  <path d="M288 96 L318 34" stroke="#a9b1bb" stroke-width="2" stroke-dasharray="4 5"/>
+</g>
+<circle cx="352" cy="58" r="5" fill="#a9b1bb"/>
+<circle cx="366" cy="112" r="5" fill="#a9b1bb"/>
+<circle cx="318" cy="34" r="5" fill="#a9b1bb"/>
+<circle cx="112" cy="92" r="17" fill="#0072B2" stroke="#1c2128" stroke-width="2"/>
+<circle cx="196" cy="150" r="22" fill="#D55E00" stroke="#1c2128" stroke-width="2"/>
+<circle cx="288" cy="96" r="18" fill="#009E73" stroke="#1c2128" stroke-width="2"/>
+<circle cx="84" cy="184" r="10" fill="#9EDAE5"/>
+<circle cx="206" cy="236" r="11" fill="#2CA02C"/>
+<circle cx="330" cy="182" r="10" fill="#F7B6D2"/>
+<g font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1c2128">
+  <rect x="24" y="258" width="14" height="4" rx="2" fill="#6d4bc4"/><text x="44" y="264">both</text>
+  <rect x="96" y="258" width="14" height="4" rx="2" fill="#0b8a6f"/><text x="116" y="264">organoids</text>
+  <rect x="196" y="258" width="14" height="4" rx="2" fill="#c25b12"/><text x="216" y="264">2D</text>
+  <rect x="254" y="258" width="14" height="4" rx="2" fill="#a9b1bb"/><text x="274" y="264">hover preview</text>
+</g>
+</svg>
