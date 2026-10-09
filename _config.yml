@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "avatar.JPG"
   name             : "Shuyang Zhao"
-  pronouns         : "they/them"  
+  pronouns         : # left blank on purpose: no pronouns are displayed
   bio              : ""
   location         : "Riverside, CA"
   employer         : "University of California, Riverside"
