@@ -37,8 +37,8 @@ cell lines, and which genes move together with them?
 
 ## The explorer
 
-The explorer is a single web page that runs entirely in the browser. You can start from any gene,
-hover over a node to preview its partners and click to add them, so the network grows one step at a
+The explorer is a single web page that runs entirely in the browser. Exploration starts from any gene:
+hovering over a node previews its partners and clicking adds them, so the network grows one step at a
 time. Switching between the organoid data, the 2D data and a side-by-side comparison takes one click.
 Opening any pair shows how the correlation splits across tumour lineages, with scatter plots of both
 datasets next to each other and a check against 2D lines screened with the same CRISPR library as the
@@ -46,8 +46,8 @@ organoids. Module enrichment is shown as a heat map. The interface is in English
 
 ## How it is built
 
-The statistics follow the published code of the NextGen paper. I first reproduced two of the
-paper's own results from the raw data (a biomarker table and the gene dependency classes) to make
+The statistics follow the published code of the NextGen paper. Two of the paper's own results were
+first reproduced from the raw data (a biomarker table and the gene dependency classes) to make
 sure the data handling matches, then applied the same conventions to the co-dependency map and to the
 2D comparison. The whole analysis reruns with a single command, and every number in the report is
 read from the generated tables.
