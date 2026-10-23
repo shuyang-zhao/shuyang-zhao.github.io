@@ -106,11 +106,9 @@ redirect_from:
   <ul class="chips chips--accent">
     <li>Python</li>
     <li>PyTorch</li>
-    <li>Transformer models</li>
     <li>Structural modeling and molecular simulation</li>
     <li>Clinical data analysis</li>
-    <li>Sequencing data analysis (CLIP-seq)</li>
-    <li>CRISPR screen analysis (DepMap)</li>
+    <li>NGS data analysis</li>
   </ul>
 </div>
 
