@@ -5,8 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
-{% include base_path %}
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+{% assign items = site.teaching | sort: "date" | reverse %}
+<ul class="timeline">
+  {% for item in items %}
+    {% include timeline-item.html item=item %}
+  {% endfor %}
+</ul>

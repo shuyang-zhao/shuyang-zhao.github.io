@@ -1,0 +1,10 @@
+# Manuscripts that are submitted but not yet published. Titles are left out on
+# purpose; move an entry to _publications/ once it is accepted.
+- venue: "Nature Communications"
+  status: "Under review"
+- venue: "BMEMat"
+  status: "In revision"
+- venue: "Environmental Health"
+  status: "In revision"
+- venue: "Exploration"
+  status: "In revision"

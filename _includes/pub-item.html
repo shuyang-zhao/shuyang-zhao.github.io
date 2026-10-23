@@ -1,0 +1,16 @@
+{% comment %}
+  One published paper. Pass the publication document as `pub`.
+  The site owner's name is set in bold within the author list.
+{% endcomment %}
+{% assign pub = include.pub %}
+{% if pub.doi %}{% assign pub_url = pub.doi | prepend: "https://doi.org/" %}{% else %}{% assign pub_url = pub.paperurl %}{% endif %}
+<li class="pub">
+  <a class="pub__title" href="{{ pub_url }}">{{ pub.title }}</a>
+  {% if pub.authors %}<span class="pub__authors">{{ pub.authors | replace: "Zhao, S.", "<strong>Zhao, S.</strong>" }}</span>{% endif %}
+  <span class="pub__venue"><em>{{ pub.venue }}</em>, {{ pub.date | date: "%Y" }}{% if pub.volume %}, {{ pub.volume }}{% endif %}{% if pub.article %}, {{ pub.article }}{% endif %}</span>
+  <div class="pub__links">
+    {% if pub.doi %}<a class="btn btn--small btn--inverse" href="https://doi.org/{{ pub.doi }}">DOI</a>{% endif %}
+    {% if pub.paperurl %}<a class="btn btn--small btn--inverse" href="{{ pub.paperurl }}">Publisher</a>{% endif %}
+    {% if pub.slidesurl %}<a class="btn btn--small btn--inverse" href="{{ pub.slidesurl }}">Slides</a>{% endif %}
+  </div>
+</li>

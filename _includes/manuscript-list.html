@@ -1,0 +1,10 @@
+{% if site.data.manuscripts %}
+<ul class="pub-list">
+  {% for m in site.data.manuscripts %}
+  <li class="pub pub--pending">
+    <span>Manuscript submitted to <em>{{ m.venue }}</em>{% if m.year %}, {{ m.year }}{% endif %}</span>
+    <span class="pub__status">{{ m.status }}</span>
+  </li>
+  {% endfor %}
+</ul>
+{% endif %}

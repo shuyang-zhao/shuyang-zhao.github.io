@@ -1,0 +1,10 @@
+{% comment %}
+  One row of a compact timeline. Pass the collection document as `item`.
+{% endcomment %}
+<li class="timeline__item">
+  <span class="timeline__date">{% if include.item.term %}{{ include.item.term }}{% else %}{{ include.item.date | date: "%b %Y" }}{% endif %}</span>
+  <div>
+    <span class="timeline__title">{{ include.item.title }}</span>
+    <span class="timeline__meta">{{ include.item.type }}{% if include.item.venue %} · {{ include.item.venue }}{% endif %}{% if include.item.location %}, {{ include.item.location }}{% endif %}</span>
+  </div>
+</li>
