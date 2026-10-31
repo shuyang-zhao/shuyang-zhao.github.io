@@ -46,7 +46,7 @@ redirect_from:
       <span class="timeline__title">Summer Research Intern, Yi Lab</span>
       <span class="timeline__meta">Peking University · Supervisor: Prof. Chengqi Yi</span>
       <ul class="timeline__detail">
-        <li>Genome editing</li>
+        <li>Base editing</li>
       </ul>
     </div>
   </li>

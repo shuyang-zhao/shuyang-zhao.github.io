@@ -11,7 +11,6 @@ template (MIT license).
 | What | Where |
 | --- | --- |
 | Home page text | `_pages/about.md` |
-| News on the home page | `_data/news.yml` |
 | Manuscripts under review / in revision | `_data/manuscripts.yml` |
 | Publications, projects, talks, teaching | `_publications/`, `_projects/`, `_talks/`, `_teaching/` |
 | CV | `_pages/cv.md` |
